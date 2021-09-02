@@ -13,3 +13,9 @@ or just pass token as string in `DiscordBot` options
 $ npm i
 $ npm run dev
 ```
+
+### Build
+If you want host bot on server - you need transpile TypeScript into JavaScript:
+```
+$ npm run build
+```
