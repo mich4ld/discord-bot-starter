@@ -2,7 +2,7 @@
 This is template for creating discord bots, based on `discord.js` and my `@mich4l/discord-base` library.
 
 ### Bot token
-Create `.env` and include: 
+Create `.env` file and include: 
 ```env
 DISCORD_TOKEN='your_discord_bot_token'
 ```
