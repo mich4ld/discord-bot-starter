@@ -1,6 +1,8 @@
 # Discord bot starter
 This is template for creating discord bots, based on `discord.js` and my `@mich4l/discord-base` library.
 
+Fork this repository and clone
+
 ### Bot token
 Create `.env` file and include: 
 ```env
