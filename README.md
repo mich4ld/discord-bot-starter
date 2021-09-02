@@ -1,1 +1,15 @@
-# discord-bot-starter
+# Discord bot starter
+This is template for creating discord bots, based on `discord.js` and my `@mich4l/discord-base` library.
+
+### Bot token
+Create `.env` and include: 
+```env
+DISCORD_TOKEN='your_discord_bot_token'
+```
+or just pass token as string in `DiscordBot` options
+
+### Run app
+```
+$ npm i
+$ npm run dev
+```
